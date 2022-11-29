@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeppebs02
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 Check out my website www.jeppebs.com
 
 <!---
 Jeppebs02/Jeppebs02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
