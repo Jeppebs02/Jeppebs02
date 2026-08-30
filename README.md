@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeppebs02
 - 👀 I’m interested in programming
-- Check out my [website](https://jeppebs.xyz/)
+- Check out my <a href="https://jeppebs.xyz/" target="_blank">website</a>
 
 <!---
 Jeppebs02/Jeppebs02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
